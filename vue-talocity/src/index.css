@@ -1,0 +1,26 @@
+@tailwind base;
+
+@layer base {
+  ul {
+    @apply list-disc;
+    @apply ml-4;
+  }
+  ol {
+    @apply list-decimal;
+    @apply ml-4;
+  }
+  h2 {
+    @apply text-lg;
+    @apply font-bold;
+    @apply mb-2;
+  }
+  p {
+    @apply min-h-[8px];
+  }
+}
+@tailwind components;
+@tailwind utilities;
+
+.v-data-table .v-data-table__wrapper {
+  overflow-x: hidden;
+}

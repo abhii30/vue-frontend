@@ -1,0 +1,6 @@
+export { default as EmployerDashboard } from './employer-dashboard/employer-dashboard.vue'
+export { default as EmployerJob } from './employer-job/employer-job.vue'
+export { default as EditJob } from './employer-job/edit-job.vue'
+export { default as CreateJob } from './employer-job/create-job.vue'
+export { default as EmployerProfile } from './employer-profile/employer-profile.vue'
+export { default as EmployerFunnel} from './employer-funnel/employer-funnel.vue'

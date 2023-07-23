@@ -1,0 +1,19 @@
+{
+  "name": "vue-frontend-dev",
+  "version": "0.0.1",
+  "description": "Frontend Development Code for Talocity production in Vue JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tx-talocity/vue-frontend-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tx-talocity/vue-frontend-dev/issues"
+  },
+  "homepage": "https://github.com/tx-talocity/vue-frontend-dev#readme"
+}

@@ -1,0 +1,33 @@
+{
+  "choices": [
+    { "label": "Option 1", "value": "Option 1" },
+    { "label": "Option 2", "value": "Option 2" },
+    { "label": "Option 3", "value": "Option 3" },
+    { "label": "Option 4", "value": "Option 4" },
+    { "label": "Option 5", "value": "Option 5" },
+    { "label": "Option 6", "value": "Option 6" },
+    { "label": "Option 7", "value": "Option 7" },
+    { "label": "Option 8", "value": "Option 8" },
+    { "label": "Option 9", "value": "Option 9" }
+  ],
+  "data": [
+    { "label": "Choice A", "value": "Choice A" },
+    { "label": "Choice B", "value": "Choice B" },
+    { "label": "Choice C", "value": "Choice C" },
+    { "label": "Choice D", "value": "Choice D" },
+    { "label": "Choice E", "value": "Choice E" },
+    { "label": "Choice F", "value": "Choice F" },
+    { "label": "Choice G", "value": "Choice G" },
+    { "label": "Choice H", "value": "Choice H" },
+    { "label": "Choice I", "value": "Choice I" }
+  ],
+  "visibility": [
+    { "label": "Public", "value": "Public" },
+    { "label": "Private (invite only)", "value": "Private (invite only)" }
+  ],
+  "location": [
+    { "label": "In office", "value": "In office" },
+    { "label": "Onsite or remote", "value": "Onsite or remote" },
+    { "label": "Remote only", "value": "Remote only" }
+  ]
+}

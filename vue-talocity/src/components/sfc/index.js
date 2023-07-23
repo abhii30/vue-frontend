@@ -1,0 +1,8 @@
+export { default as CheckBox } from './check-box.vue'
+export { default as InputDropdown } from './input-dropdown.vue'
+export { default as InputMulti } from './input-multi.vue'
+export { default as InputSearch } from './input-search.vue'
+export { default as InputRadio } from './input-radio.vue'
+export { default as InputSalary } from './input-salary.vue'
+export { default as PageSwitcher } from './switch-pages.vue'
+export { default as MultiSelect } from './multi-select.vue'

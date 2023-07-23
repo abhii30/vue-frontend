@@ -1,0 +1,7 @@
+export { default as JobsWrapper } from './jobs-wrapper/jobs-wrapper.vue'
+export { default as JobsSetting } from './jobs-settings/jobs-settings.vue'
+export { default as AddSetting } from './jobs-settings/add-settings.vue'
+export { default as AssessmentConfig } from './assessments-wrapper/assessments-wrapper.vue'
+export { default as ProfileWrapper } from './funnel-wrapper/profile-wrapper.vue'
+export { default as QuestionAnswerWrapper } from './funnel-wrapper/question-answer-wrapper.vue'
+export { default as AccessManagementWrapper } from './profile-wrapper/access-management-wrap.vue'
